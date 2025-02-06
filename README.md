@@ -44,8 +44,13 @@ Transparent Gold is a blockchain-powered online gold trading platform designed t
 - **Stripe API Keys**: Set your Stripe API keys in the environment variables.
 
 ## Screenshots
+![Frame 3 (2)](https://github.com/user-attachments/assets/537084d7-2ba3-4324-a32a-8b7412e7ec01)
+<img width="303" alt="Screenshot 2024-03-23 at 12 39 05 AM" src="https://github.com/user-attachments/assets/9f145bd7-ae4b-4875-8bf1-a0f06a7f5582" />
+![Screenshot_20240627_021019](https://github.com/user-attachments/assets/a2183f66-0422-43ae-88bc-9ffdacf7ec6e)
+![Screenshot_20240627_023620](https://github.com/user-attachments/assets/e6f2a97b-fa1e-4beb-97dd-d7e676692730)
+![Screenshot_20240627_021109](https://github.com/user-attachments/assets/bce8640f-eefe-4775-9eff-915ae537b0fa)
 
-*(Add relevant screenshots here for better visualization.)*
+
 
 ## Contribution
 
